@@ -1,0 +1,10 @@
+{
+  "name": "EsencialJS",
+  "version": "0.0.1",
+  "description": "Ejemplos para entender y aprender Javascript",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "st": "^1.0.0"
+  }
+}
